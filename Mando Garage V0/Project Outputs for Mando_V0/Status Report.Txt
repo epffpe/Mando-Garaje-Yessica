@@ -1,0 +1,7 @@
+   Printed Document[Mando_v0.PcbDoc]
+   Printed Document[Mando_v0.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 20:40:46 On 24/01/2012

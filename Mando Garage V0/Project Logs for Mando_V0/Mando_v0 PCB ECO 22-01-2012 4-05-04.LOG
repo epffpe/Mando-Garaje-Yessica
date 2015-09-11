@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=R5-1
+Removed Member From Class: ClassName=Mando_v0 Member=R5
+Change Component Footprint: Designator=Ind1 Old Footprint=RES0603 New Footprint=IND0603
+Added Pin To Net: NetName=NetC3_1 Pin=E1-1
